@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Raul 
+### Hi there 👋, my name is Raul and welcome to my Github
 - 🔭 I’m currently working on various different coding projects. 
 - 🌱 I’m currently learning Mathematics and Statistics at Durham University. 
 - 👯 I’m looking to collaborate on any Python or R Projects. 
